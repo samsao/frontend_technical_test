@@ -23,8 +23,8 @@ completely different.
 Write the code to be production-grade. You are free to use whether framework or
 library you want. The only constraints is that you use a frontend programming
 language (JavaScript, TypeScript, etc.) and that your project has styling via
-CSS. While it doesn't need to have an extravagant UI styling, we still want some
-of your styling skills. 
+CSS. While it doesn't need to have an extravagant UI styling, we still want to
+see some of your CSS skills.
 
 Once finish, zip your finished project and send it back to the interviewer that
 sent you the initial instructions. As zip files are restricted via email, name
