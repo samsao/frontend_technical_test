@@ -27,7 +27,7 @@ CSS.
 
 Once finish, zip your finished project and send it back to the interviewer that
 sent you the initial instructions. As zip files are restricted via email, name
-your zip archive `<firstname-lastname>.zip.other` (for example, `john-doe.zip.other`)
+your zip archive `<firstname_lastname>.zip.other` (for example, `john_doe.zip.other`)
 so that scan process does not reject your email. An acknowledgment will be sent
 to you after reception if everything is all right.
 
